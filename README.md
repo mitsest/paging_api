@@ -1,5 +1,5 @@
 # paging_api
-A random person API built with docker
+A random person API built with Django
 I created it, because I got tired of getting rate limited from the various public APIs that are out there.
 
 Enjoy.
