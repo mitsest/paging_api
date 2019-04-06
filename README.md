@@ -1,4 +1,4 @@
-# paging_api
+# Basic paginated API
 A random person API built with Django (python 3.6.8, Django 2.2.0)
 
 I created it, because I got tired of searching for a non-rate limited public API to test my custom recycler view (android widget for pagination)
