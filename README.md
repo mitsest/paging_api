@@ -6,3 +6,6 @@ I created it, because I got tired of searching for a non-rate-limited public API
 All you need to do, is run docker-compose up
 
 Enjoy.
+
+![What it looks like](/screenshot.png?raw=true "What it looks like")
+
